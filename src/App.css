@@ -1,0 +1,57 @@
+.App {
+  justify-content: space-evenly;
+}
+.nav-class {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background-image: url("images/image9.jpg");
+  color: rgb(255, 255, 255);
+}
+.nav-length {
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+.image-logo {
+  height: 50px;
+}
+.image-guest {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+.background {
+  background-image: url("images/image14.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.home {
+  background-image: url("images/image14.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  justify-content: space-around;
+}
+.guest-background {
+  justify-content: flex-start;
+}
+.text {
+  color: white;
+}
+.image-gallary {
+  height: 150px;
+  width: 150px;
+  border-radius: 10%;
+}
+.contact {
+  background-image: url("images/image14.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  justify-content: space-around;
+}
